@@ -2,7 +2,7 @@
 
 ## Requirements
 
-*mkvinfo*
+_mkvinfo_
 
 Running `brew install --with-qt mkvtoolnix` should be sufficient.
 
