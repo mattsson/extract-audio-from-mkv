@@ -8,8 +8,8 @@ The former can be installed by running `brew install mkvtoolnix`.
 
 The latter can be installed by running `brew install ffmpeg`
 
-Sources:
-http://macappstore.org/mkvtoolnix/
+Sources:  
+http://macappstore.org/mkvtoolnix/  
 https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/wiki/Installing-ffmpeg-on-Mac-OS-X
 
 ## Usage
