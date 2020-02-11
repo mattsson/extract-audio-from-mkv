@@ -2,17 +2,15 @@
 
 ## Requirements
 
-**MKVToolNix**
+We need `mkvinfo` and `mkvextract` from the **MKVToolNix** and `ffmpeg`.
 
-We need `mkvinfo` and `mkvextract` from the **MKVToolNix**.
+The former can be installed by running `brew install mkvtoolnix`.
 
-Running `brew install --with-qt mkvtoolnix` should be sufficient to install the toolkit.
+The latter can be installed by running `brew install ffmpeg`
 
-Source: https://mkvtoolnix.download/downloads.html
-
-**ffmpeg**
-
-`ffmpeg` can be installed at https://www.ffmpeg.org/download.html#build-mac
+Sources:
+http://macappstore.org/mkvtoolnix/
+https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/wiki/Installing-ffmpeg-on-Mac-OS-X
 
 ## Usage
 
