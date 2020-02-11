@@ -2,7 +2,7 @@
 
 ## Requirements
 
-We need `mkvinfo` and `mkvextract` from the **MKVToolNix** and `ffmpeg`.
+We need `mkvinfo` and `mkvextract` from **MKVToolNix** and `ffmpeg`.
 
 The former can be installed by running `brew install mkvtoolnix`.
 
